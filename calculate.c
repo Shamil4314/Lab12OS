@@ -1,4 +1,4 @@
-// calculate.c
+// calculate.c LOL
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
